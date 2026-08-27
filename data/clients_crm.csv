@@ -1,0 +1,86 @@
+client_id,firm_name,firm_size,practice_area,state,plan_tier,signed_date
+CL-0001,Fowler Law Group,2-10 Attorneys,Criminal Defense,New York,Enterprise,2025-06-23
+CL-0002,Johnson & Associates,11-25 Attorneys,Immigration,Washington,Plus,2025-10-15
+CL-0003,Hill Partners,Solo Practitioner,Real Estate,California,Standard,2025-05-29
+CL-0004,Walker Law Group,Solo Practitioner,Estate Planning,New York,Plus,2025-03-31
+CL-0005,Doyle Partners,2-10 Attorneys,Personal Injury,Ohio,Plus,2026-07-31
+CL-0006,Rhodes Partners,Solo Practitioner,Real Estate,New York,Enterprise,2025-09-20
+CL-0007,Mcclain Partners,11-25 Attorneys,Criminal Defense,California,Standard,2026-06-03
+CL-0008,Miller Law Firm,Solo Practitioner,Bankruptcy,Illinois,Standard,2025-08-11
+CL-0009,Henderson & Associates,2-10 Attorneys,Bankruptcy,Texas,Standard,2025-08-07
+CL-0010,Johnson Law Firm,2-10 Attorneys,Immigration,Georgia,Standard,2025-06-03
+CL-0011,Robinson Partners,2-10 Attorneys,Criminal Defense,California,Standard,2026-02-16
+CL-0012,Wagner Partners,Solo Practitioner,Immigration,Arizona,Standard,2026-06-14
+CL-0013,Johnson Partners,2-10 Attorneys,Criminal Defense,Washington,Plus,2025-05-20
+CL-0014,Gonzalez Partners,Solo Practitioner,Estate Planning,Colorado,Standard,2026-03-06
+CL-0015,Santos Law Group,2-10 Attorneys,Estate Planning,Illinois,Standard,2025-05-11
+CL-0016,Gardner & Associates,2-10 Attorneys,Immigration,Arizona,Standard,2025-05-21
+CL-0017,Robinson Law Firm,Solo Practitioner,Bankruptcy,Florida,Enterprise,2025-12-10
+CL-0018,Lawrence Legal,26+ Attorneys,Estate Planning,Washington,Plus,2026-03-15
+CL-0019,Pacheco Law Group,2-10 Attorneys,Family Law,Ohio,Standard,2025-11-29
+CL-0020,Smith & Associates,2-10 Attorneys,General Practice,Arizona,Standard,2025-11-06
+CL-0021,Shaffer Partners,Solo Practitioner,Estate Planning,Washington,Standard,2025-12-02
+CL-0022,Wolfe Law Group,Solo Practitioner,Estate Planning,California,Enterprise,2026-01-27
+CL-0023,Peterson Law Firm,Solo Practitioner,Criminal Defense,Texas,Plus,2026-01-18
+CL-0024,Moore Partners,2-10 Attorneys,Bankruptcy,New York,Standard,2025-10-03
+CL-0025,Bernard Law Firm,2-10 Attorneys,General Practice,Florida,Standard,2026-07-25
+CL-0026,Rogers & Associates,26+ Attorneys,Estate Planning,Colorado,Plus,2025-11-27
+CL-0027,Davis Partners,26+ Attorneys,Real Estate,Pennsylvania,Enterprise,2025-11-25
+CL-0028,Davis Legal,2-10 Attorneys,Estate Planning,Florida,Enterprise,2026-04-13
+CL-0029,Abbott Law Firm,Solo Practitioner,Immigration,California,Standard,2026-08-04
+CL-0030,Munoz & Associates,Solo Practitioner,Family Law,Washington,Standard,2025-06-21
+CL-0031,Roman Partners,2-10 Attorneys,Immigration,Arizona,Standard,2026-05-07
+CL-0032,Blair Partners,11-25 Attorneys,General Practice,Ohio,Standard,2026-03-26
+CL-0033,Herrera Partners,Solo Practitioner,Personal Injury,Washington,Standard,2025-11-13
+CL-0034,Dudley Partners,Solo Practitioner,Criminal Defense,Washington,Plus,2025-06-26
+CL-0035,Gray Law Group,Solo Practitioner,Criminal Defense,Arizona,Enterprise,2026-02-12
+CL-0036,Arnold Law Firm,11-25 Attorneys,Personal Injury,Colorado,Standard,2025-08-09
+CL-0037,Calderon Partners,Solo Practitioner,Family Law,Ohio,Plus,2025-11-25
+CL-0038,Montgomery Legal,2-10 Attorneys,Estate Planning,Florida,Plus,2025-06-17
+CL-0039,Hensley & Associates,11-25 Attorneys,Personal Injury,Pennsylvania,Standard,2026-03-18
+CL-0040,Ray Law Firm,2-10 Attorneys,Personal Injury,Texas,Standard,2026-01-26
+CL-0041,Bush Legal,11-25 Attorneys,Estate Planning,California,Plus,2026-03-07
+CL-0042,Williams Partners,2-10 Attorneys,Immigration,Texas,Standard,2025-11-02
+CL-0043,Perez Law Group,2-10 Attorneys,Family Law,Florida,Standard,2026-07-11
+CL-0044,Roberts Partners,11-25 Attorneys,Family Law,Illinois,Plus,2026-06-30
+CL-0045,Miller & Associates,11-25 Attorneys,Estate Planning,Colorado,Standard,2026-05-08
+CL-0046,Hall Law Firm,Solo Practitioner,Bankruptcy,North Carolina,Plus,2026-01-14
+CL-0047,Garcia Law Firm,11-25 Attorneys,Immigration,New York,Plus,2026-08-12
+CL-0048,Ramirez Law Group,11-25 Attorneys,Bankruptcy,California,Standard,2025-10-17
+CL-0049,Reid Partners,2-10 Attorneys,Estate Planning,California,Standard,2025-10-22
+CL-0050,Diaz Law Group,Solo Practitioner,Estate Planning,Texas,Standard,2025-05-12
+CL-0051,Wood Legal,Solo Practitioner,Immigration,Ohio,Plus,2025-04-02
+CL-0052,Clark Legal,2-10 Attorneys,General Practice,New York,Standard,2025-10-30
+CL-0053,Adams Partners,11-25 Attorneys,General Practice,New York,Standard,2025-07-14
+CL-0054,Zuniga Law Firm,2-10 Attorneys,Estate Planning,Texas,Plus,2026-06-28
+CL-0055,Wong Law Firm,Solo Practitioner,Bankruptcy,Arizona,Standard,2025-06-08
+CL-0056,Lynch Law Firm,Solo Practitioner,Personal Injury,Washington,Standard,2026-04-25
+CL-0057,Jackson Law Group,26+ Attorneys,Real Estate,Colorado,Plus,2025-06-09
+CL-0058,Daniel Law Group,2-10 Attorneys,Estate Planning,New York,Enterprise,2026-02-11
+CL-0059,Martin Partners,11-25 Attorneys,General Practice,Florida,Standard,2025-09-11
+CL-0060,Gray & Associates,11-25 Attorneys,Criminal Defense,North Carolina,Standard,2026-05-07
+CL-0061,Mayo Law Group,11-25 Attorneys,General Practice,Ohio,Enterprise,2025-11-11
+CL-0062,Bowman Law Group,2-10 Attorneys,Personal Injury,Texas,Standard,2025-06-09
+CL-0063,Hawkins & Associates,Solo Practitioner,Real Estate,North Carolina,Standard,2025-10-29
+CL-0064,Cohen & Associates,11-25 Attorneys,Real Estate,California,Plus,2026-07-06
+CL-0065,Cameron Law Firm,Solo Practitioner,Personal Injury,Arizona,Standard,2025-08-16
+CL-0066,Parsons Law Firm,2-10 Attorneys,Criminal Defense,Arizona,Standard,2025-11-27
+CL-0067,Perez & Associates,Solo Practitioner,Estate Planning,Illinois,Standard,2026-07-12
+CL-0068,Johnson Law Group,26+ Attorneys,Personal Injury,Colorado,Standard,2025-10-09
+CL-0069,Stewart Law Group,2-10 Attorneys,Personal Injury,Pennsylvania,Plus,2026-01-16
+CL-0070,Adams Partners,2-10 Attorneys,Family Law,California,Enterprise,2026-07-02
+CL-0071,Clark Law Group,26+ Attorneys,Family Law,Texas,Standard,2026-08-03
+CL-0072,Hahn & Associates,2-10 Attorneys,Real Estate,Texas,Standard,2025-05-09
+CL-0073,Walter Partners,Solo Practitioner,Personal Injury,Pennsylvania,Standard,2025-11-08
+CL-0074,Edwards Law Firm,2-10 Attorneys,Bankruptcy,Illinois,Standard,2025-05-23
+CL-0075,Rios Legal,Solo Practitioner,Estate Planning,Illinois,Standard,2025-09-26
+CL-0076,Foster & Associates,11-25 Attorneys,Criminal Defense,North Carolina,Standard,2026-04-10
+CL-0077,Rocha Law Group,Solo Practitioner,Personal Injury,North Carolina,Standard,2026-01-18
+CL-0078,Ellis Law Group,26+ Attorneys,Estate Planning,Ohio,Standard,2025-06-11
+CL-0079,Baker & Associates,2-10 Attorneys,Bankruptcy,Texas,Plus,2025-11-27
+CL-0080,Wright Legal,Solo Practitioner,Criminal Defense,Florida,Plus,2025-11-06
+CL-0081,Hoffman Partners,2-10 Attorneys,Criminal Defense,Pennsylvania,Plus,2026-05-23
+CL-0082,Baker Partners,2-10 Attorneys,Criminal Defense,Washington,Standard,2025-03-09
+CL-0083,Richards & Associates,Solo Practitioner,Criminal Defense,Texas,Plus,2025-06-15
+CL-0084,Hurst Partners,2-10 Attorneys,Family Law,Illinois,Standard,2025-06-18
+CL-0085,Ross Partners,Solo Practitioner,Estate Planning,Colorado,Plus,2025-12-14

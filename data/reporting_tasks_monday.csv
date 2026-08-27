@@ -1,0 +1,313 @@
+task_id,report_name,owner,due_date,completed_date,status,on_time
+TSK-00001,Weekly Leadership Dashboard,Data Analyst,2025-08-29,2025-08-29,Completed,True
+TSK-00002,Close Rate Tracker,Data Analyst,2025-08-29,2025-08-28,Completed,True
+TSK-00003,Retention Cohort Report,Data Analyst,2025-08-29,2025-08-28,Completed,True
+TSK-00004,Escalation Log Review,Data Analyst,2025-08-29,2025-08-30,Completed,True
+TSK-00005,Recruiter Funnel Snapshot,Data Analyst,2025-08-29,2025-08-30,Completed,True
+TSK-00006,Monthly Client Health Report,Ops Lead,2025-08-29,2025-08-28,Completed,True
+TSK-00007,Weekly Leadership Dashboard,Data Analyst,2025-09-05,2025-09-08,Completed,False
+TSK-00008,Close Rate Tracker,Data Analyst,2025-09-05,2025-09-06,Completed,True
+TSK-00009,Retention Cohort Report,Data Analyst,2025-09-05,2025-09-06,Completed,True
+TSK-00010,Escalation Log Review,Data Analyst,2025-09-05,2025-09-08,Completed,False
+TSK-00011,Recruiter Funnel Snapshot,Data Analyst,2025-09-05,2025-09-04,Completed,True
+TSK-00012,Monthly Client Health Report,Ops Lead,2025-09-05,2025-09-05,Completed,True
+TSK-00013,Weekly Leadership Dashboard,Data Analyst,2025-09-12,2025-09-12,Completed,True
+TSK-00014,Close Rate Tracker,Data Analyst,2025-09-12,2025-09-11,Completed,True
+TSK-00015,Retention Cohort Report,Data Analyst,2025-09-12,2025-09-12,Completed,True
+TSK-00016,Escalation Log Review,Data Analyst,2025-09-12,2025-09-13,Completed,True
+TSK-00017,Recruiter Funnel Snapshot,Data Analyst,2025-09-12,2025-09-17,Completed,False
+TSK-00018,Monthly Client Health Report,Ops Lead,2025-09-12,2025-09-13,Completed,True
+TSK-00019,Weekly Leadership Dashboard,Data Analyst,2025-09-19,2025-09-23,Completed,False
+TSK-00020,Close Rate Tracker,Data Analyst,2025-09-19,2025-09-19,Completed,True
+TSK-00021,Retention Cohort Report,Data Analyst,2025-09-19,2025-09-20,Completed,True
+TSK-00022,Escalation Log Review,Data Analyst,2025-09-19,2025-09-18,Completed,True
+TSK-00023,Recruiter Funnel Snapshot,Data Analyst,2025-09-19,2025-09-19,Completed,True
+TSK-00024,Monthly Client Health Report,Ops Lead,2025-09-19,2025-09-19,Completed,True
+TSK-00025,Weekly Leadership Dashboard,Data Analyst,2025-09-26,2025-09-30,Completed,False
+TSK-00026,Close Rate Tracker,Data Analyst,2025-09-26,2025-09-28,Completed,False
+TSK-00027,Retention Cohort Report,Data Analyst,2025-09-26,2025-09-26,Completed,True
+TSK-00028,Escalation Log Review,Data Analyst,2025-09-26,2025-09-25,Completed,True
+TSK-00029,Recruiter Funnel Snapshot,Data Analyst,2025-09-26,2025-09-25,Completed,True
+TSK-00030,Monthly Client Health Report,Ops Lead,2025-09-26,2025-09-27,Completed,True
+TSK-00031,Weekly Leadership Dashboard,Data Analyst,2025-10-03,2025-10-03,Completed,True
+TSK-00032,Close Rate Tracker,Data Analyst,2025-10-03,2025-10-09,Completed,False
+TSK-00033,Retention Cohort Report,Data Analyst,2025-10-03,2025-10-08,Completed,False
+TSK-00034,Escalation Log Review,Data Analyst,2025-10-03,2025-10-03,Completed,True
+TSK-00035,Recruiter Funnel Snapshot,Data Analyst,2025-10-03,2025-10-02,Completed,True
+TSK-00036,Monthly Client Health Report,Ops Lead,2025-10-03,2025-10-02,Completed,True
+TSK-00037,Weekly Leadership Dashboard,Data Analyst,2025-10-10,2025-10-09,Completed,True
+TSK-00038,Close Rate Tracker,Data Analyst,2025-10-10,2025-10-16,Completed,False
+TSK-00039,Retention Cohort Report,Data Analyst,2025-10-10,2025-10-10,Completed,True
+TSK-00040,Escalation Log Review,Data Analyst,2025-10-10,2025-10-11,Completed,True
+TSK-00041,Recruiter Funnel Snapshot,Data Analyst,2025-10-10,2025-10-10,Completed,True
+TSK-00042,Monthly Client Health Report,Ops Lead,2025-10-10,2025-10-11,Completed,True
+TSK-00043,Weekly Leadership Dashboard,Data Analyst,2025-10-17,2025-10-18,Completed,True
+TSK-00044,Close Rate Tracker,Data Analyst,2025-10-17,2025-10-17,Completed,True
+TSK-00045,Retention Cohort Report,Data Analyst,2025-10-17,2025-10-17,Completed,True
+TSK-00046,Escalation Log Review,Data Analyst,2025-10-17,2025-10-17,Completed,True
+TSK-00047,Recruiter Funnel Snapshot,Data Analyst,2025-10-17,2025-10-17,Completed,True
+TSK-00048,Monthly Client Health Report,Ops Lead,2025-10-17,2025-10-19,Completed,False
+TSK-00049,Weekly Leadership Dashboard,Data Analyst,2025-10-24,2025-10-24,Completed,True
+TSK-00050,Close Rate Tracker,Data Analyst,2025-10-24,2025-10-23,Completed,True
+TSK-00051,Retention Cohort Report,Data Analyst,2025-10-24,2025-10-23,Completed,True
+TSK-00052,Escalation Log Review,Data Analyst,2025-10-24,2025-10-24,Completed,True
+TSK-00053,Recruiter Funnel Snapshot,Data Analyst,2025-10-24,2025-10-23,Completed,True
+TSK-00054,Monthly Client Health Report,Ops Lead,2025-10-24,2025-10-27,Completed,False
+TSK-00055,Weekly Leadership Dashboard,Data Analyst,2025-10-31,2025-10-30,Completed,True
+TSK-00056,Close Rate Tracker,Data Analyst,2025-10-31,2025-10-31,Completed,True
+TSK-00057,Retention Cohort Report,Data Analyst,2025-10-31,2025-10-31,Completed,True
+TSK-00058,Escalation Log Review,Data Analyst,2025-10-31,2025-10-30,Completed,True
+TSK-00059,Recruiter Funnel Snapshot,Data Analyst,2025-10-31,2025-11-01,Completed,True
+TSK-00060,Monthly Client Health Report,Ops Lead,2025-10-31,2025-10-31,Completed,True
+TSK-00061,Weekly Leadership Dashboard,Data Analyst,2025-11-07,2025-11-10,Completed,False
+TSK-00062,Close Rate Tracker,Data Analyst,2025-11-07,2025-11-08,Completed,True
+TSK-00063,Retention Cohort Report,Data Analyst,2025-11-07,2025-11-13,Completed,False
+TSK-00064,Escalation Log Review,Data Analyst,2025-11-07,2025-11-06,Completed,True
+TSK-00065,Recruiter Funnel Snapshot,Data Analyst,2025-11-07,2025-11-07,Completed,True
+TSK-00066,Monthly Client Health Report,Ops Lead,2025-11-07,2025-11-07,Completed,True
+TSK-00067,Weekly Leadership Dashboard,Data Analyst,2025-11-14,2025-11-17,Completed,False
+TSK-00068,Close Rate Tracker,Data Analyst,2025-11-14,2025-11-15,Completed,True
+TSK-00069,Retention Cohort Report,Data Analyst,2025-11-14,2025-11-15,Completed,True
+TSK-00070,Escalation Log Review,Data Analyst,2025-11-14,2025-11-15,Completed,True
+TSK-00071,Recruiter Funnel Snapshot,Data Analyst,2025-11-14,2025-11-14,Completed,True
+TSK-00072,Monthly Client Health Report,Ops Lead,2025-11-14,2025-11-20,Completed,False
+TSK-00073,Weekly Leadership Dashboard,Data Analyst,2025-11-21,2025-11-22,Completed,True
+TSK-00074,Close Rate Tracker,Data Analyst,2025-11-21,2025-11-21,Completed,True
+TSK-00075,Retention Cohort Report,Data Analyst,2025-11-21,2025-11-20,Completed,True
+TSK-00076,Escalation Log Review,Data Analyst,2025-11-21,2025-11-20,Completed,True
+TSK-00077,Recruiter Funnel Snapshot,Data Analyst,2025-11-21,2025-11-22,Completed,True
+TSK-00078,Monthly Client Health Report,Ops Lead,2025-11-21,2025-11-20,Completed,True
+TSK-00079,Weekly Leadership Dashboard,Data Analyst,2025-11-28,2025-11-27,Completed,True
+TSK-00080,Close Rate Tracker,Data Analyst,2025-11-28,2025-11-27,Completed,True
+TSK-00081,Retention Cohort Report,Data Analyst,2025-11-28,2025-11-29,Completed,True
+TSK-00082,Escalation Log Review,Data Analyst,2025-11-28,2025-11-29,Completed,True
+TSK-00083,Recruiter Funnel Snapshot,Data Analyst,2025-11-28,2025-11-28,Completed,True
+TSK-00084,Monthly Client Health Report,Ops Lead,2025-11-28,2025-11-27,Completed,True
+TSK-00085,Weekly Leadership Dashboard,Data Analyst,2025-12-05,2025-12-05,Completed,True
+TSK-00086,Close Rate Tracker,Data Analyst,2025-12-05,2025-12-04,Completed,True
+TSK-00087,Retention Cohort Report,Data Analyst,2025-12-05,2025-12-10,Completed,False
+TSK-00088,Escalation Log Review,Data Analyst,2025-12-05,2025-12-05,Completed,True
+TSK-00089,Recruiter Funnel Snapshot,Data Analyst,2025-12-05,2025-12-06,Completed,True
+TSK-00090,Monthly Client Health Report,Ops Lead,2025-12-05,2025-12-09,Completed,False
+TSK-00091,Weekly Leadership Dashboard,Data Analyst,2025-12-12,2025-12-13,Completed,True
+TSK-00092,Close Rate Tracker,Data Analyst,2025-12-12,2025-12-16,Completed,False
+TSK-00093,Retention Cohort Report,Data Analyst,2025-12-12,2025-12-11,Completed,True
+TSK-00094,Escalation Log Review,Data Analyst,2025-12-12,2025-12-12,Completed,True
+TSK-00095,Recruiter Funnel Snapshot,Data Analyst,2025-12-12,2025-12-12,Completed,True
+TSK-00096,Monthly Client Health Report,Ops Lead,2025-12-12,2025-12-14,Completed,False
+TSK-00097,Weekly Leadership Dashboard,Data Analyst,2025-12-19,2025-12-19,Completed,True
+TSK-00098,Close Rate Tracker,Data Analyst,2025-12-19,2025-12-19,Completed,True
+TSK-00099,Retention Cohort Report,Data Analyst,2025-12-19,2025-12-19,Completed,True
+TSK-00100,Escalation Log Review,Data Analyst,2025-12-19,2025-12-20,Completed,True
+TSK-00101,Recruiter Funnel Snapshot,Data Analyst,2025-12-19,2025-12-24,Completed,False
+TSK-00102,Monthly Client Health Report,Ops Lead,2025-12-19,2025-12-19,Completed,True
+TSK-00103,Weekly Leadership Dashboard,Data Analyst,2025-12-26,2025-12-27,Completed,True
+TSK-00104,Close Rate Tracker,Data Analyst,2025-12-26,2025-12-25,Completed,True
+TSK-00105,Retention Cohort Report,Data Analyst,2025-12-26,2025-12-26,Completed,True
+TSK-00106,Escalation Log Review,Data Analyst,2025-12-26,2026-01-01,Completed,False
+TSK-00107,Recruiter Funnel Snapshot,Data Analyst,2025-12-26,2025-12-28,Completed,False
+TSK-00108,Monthly Client Health Report,Ops Lead,2025-12-26,2026-01-01,Completed,False
+TSK-00109,Weekly Leadership Dashboard,Data Analyst,2026-01-02,2026-01-01,Completed,True
+TSK-00110,Close Rate Tracker,Data Analyst,2026-01-02,2026-01-03,Completed,True
+TSK-00111,Retention Cohort Report,Data Analyst,2026-01-02,2026-01-07,Completed,False
+TSK-00112,Escalation Log Review,Data Analyst,2026-01-02,2026-01-02,Completed,True
+TSK-00113,Recruiter Funnel Snapshot,Data Analyst,2026-01-02,2026-01-01,Completed,True
+TSK-00114,Monthly Client Health Report,Ops Lead,2026-01-02,2026-01-02,Completed,True
+TSK-00115,Weekly Leadership Dashboard,Data Analyst,2026-01-09,2026-01-09,Completed,True
+TSK-00116,Close Rate Tracker,Data Analyst,2026-01-09,2026-01-09,Completed,True
+TSK-00117,Retention Cohort Report,Data Analyst,2026-01-09,2026-01-13,Completed,False
+TSK-00118,Escalation Log Review,Data Analyst,2026-01-09,2026-01-10,Completed,True
+TSK-00119,Recruiter Funnel Snapshot,Data Analyst,2026-01-09,2026-01-08,Completed,True
+TSK-00120,Monthly Client Health Report,Ops Lead,2026-01-09,2026-01-08,Completed,True
+TSK-00121,Weekly Leadership Dashboard,Data Analyst,2026-01-16,2026-01-17,Completed,True
+TSK-00122,Close Rate Tracker,Data Analyst,2026-01-16,2026-01-21,Completed,False
+TSK-00123,Retention Cohort Report,Data Analyst,2026-01-16,2026-01-17,Completed,True
+TSK-00124,Escalation Log Review,Data Analyst,2026-01-16,2026-01-21,Completed,False
+TSK-00125,Recruiter Funnel Snapshot,Data Analyst,2026-01-16,2026-01-17,Completed,True
+TSK-00126,Monthly Client Health Report,Ops Lead,2026-01-16,2026-01-15,Completed,True
+TSK-00127,Weekly Leadership Dashboard,Data Analyst,2026-01-23,2026-01-23,Completed,True
+TSK-00128,Close Rate Tracker,Data Analyst,2026-01-23,2026-01-22,Completed,True
+TSK-00129,Retention Cohort Report,Data Analyst,2026-01-23,2026-01-23,Completed,True
+TSK-00130,Escalation Log Review,Data Analyst,2026-01-23,2026-01-24,Completed,True
+TSK-00131,Recruiter Funnel Snapshot,Data Analyst,2026-01-23,2026-01-23,Completed,True
+TSK-00132,Monthly Client Health Report,Ops Lead,2026-01-23,2026-01-23,Completed,True
+TSK-00133,Weekly Leadership Dashboard,Data Analyst,2026-01-30,2026-02-01,Completed,False
+TSK-00134,Close Rate Tracker,Data Analyst,2026-01-30,2026-01-31,Completed,True
+TSK-00135,Retention Cohort Report,Data Analyst,2026-01-30,2026-01-30,Completed,True
+TSK-00136,Escalation Log Review,Data Analyst,2026-01-30,2026-01-29,Completed,True
+TSK-00137,Recruiter Funnel Snapshot,Data Analyst,2026-01-30,2026-01-30,Completed,True
+TSK-00138,Monthly Client Health Report,Ops Lead,2026-01-30,2026-02-02,Completed,False
+TSK-00139,Weekly Leadership Dashboard,Data Analyst,2026-02-06,2026-02-05,Completed,True
+TSK-00140,Close Rate Tracker,Data Analyst,2026-02-06,2026-02-06,Completed,True
+TSK-00141,Retention Cohort Report,Data Analyst,2026-02-06,2026-02-06,Completed,True
+TSK-00142,Escalation Log Review,Data Analyst,2026-02-06,2026-02-06,Completed,True
+TSK-00143,Recruiter Funnel Snapshot,Data Analyst,2026-02-06,2026-02-05,Completed,True
+TSK-00144,Monthly Client Health Report,Ops Lead,2026-02-06,2026-02-07,Completed,True
+TSK-00145,Weekly Leadership Dashboard,Data Analyst,2026-02-13,2026-02-12,Completed,True
+TSK-00146,Close Rate Tracker,Data Analyst,2026-02-13,2026-02-12,Completed,True
+TSK-00147,Retention Cohort Report,Data Analyst,2026-02-13,2026-02-13,Completed,True
+TSK-00148,Escalation Log Review,Data Analyst,2026-02-13,2026-02-17,Completed,False
+TSK-00149,Recruiter Funnel Snapshot,Data Analyst,2026-02-13,2026-02-14,Completed,True
+TSK-00150,Monthly Client Health Report,Ops Lead,2026-02-13,2026-02-12,Completed,True
+TSK-00151,Weekly Leadership Dashboard,Data Analyst,2026-02-20,2026-02-20,Completed,True
+TSK-00152,Close Rate Tracker,Data Analyst,2026-02-20,2026-02-22,Completed,False
+TSK-00153,Retention Cohort Report,Data Analyst,2026-02-20,2026-02-20,Completed,True
+TSK-00154,Escalation Log Review,Data Analyst,2026-02-20,2026-02-20,Completed,True
+TSK-00155,Recruiter Funnel Snapshot,Data Analyst,2026-02-20,2026-02-19,Completed,True
+TSK-00156,Monthly Client Health Report,Ops Lead,2026-02-20,2026-02-19,Completed,True
+TSK-00157,Weekly Leadership Dashboard,Data Analyst,2026-02-27,2026-02-26,Completed,True
+TSK-00158,Close Rate Tracker,Data Analyst,2026-02-27,2026-02-28,Completed,True
+TSK-00159,Retention Cohort Report,Data Analyst,2026-02-27,2026-02-28,Completed,True
+TSK-00160,Escalation Log Review,Data Analyst,2026-02-27,2026-03-05,Completed,False
+TSK-00161,Recruiter Funnel Snapshot,Data Analyst,2026-02-27,2026-02-26,Completed,True
+TSK-00162,Monthly Client Health Report,Ops Lead,2026-02-27,2026-02-26,Completed,True
+TSK-00163,Weekly Leadership Dashboard,Data Analyst,2026-03-06,2026-03-05,Completed,True
+TSK-00164,Close Rate Tracker,Data Analyst,2026-03-06,2026-03-11,Completed,False
+TSK-00165,Retention Cohort Report,Data Analyst,2026-03-06,2026-03-07,Completed,True
+TSK-00166,Escalation Log Review,Data Analyst,2026-03-06,2026-03-06,Completed,True
+TSK-00167,Recruiter Funnel Snapshot,Data Analyst,2026-03-06,2026-03-12,Completed,False
+TSK-00168,Monthly Client Health Report,Ops Lead,2026-03-06,2026-03-06,Completed,True
+TSK-00169,Weekly Leadership Dashboard,Data Analyst,2026-03-13,2026-03-13,Completed,True
+TSK-00170,Close Rate Tracker,Data Analyst,2026-03-13,2026-03-12,Completed,True
+TSK-00171,Retention Cohort Report,Data Analyst,2026-03-13,2026-03-14,Completed,True
+TSK-00172,Escalation Log Review,Data Analyst,2026-03-13,2026-03-12,Completed,True
+TSK-00173,Recruiter Funnel Snapshot,Data Analyst,2026-03-13,2026-03-12,Completed,True
+TSK-00174,Monthly Client Health Report,Ops Lead,2026-03-13,2026-03-12,Completed,True
+TSK-00175,Weekly Leadership Dashboard,Data Analyst,2026-03-20,2026-03-19,Completed,True
+TSK-00176,Close Rate Tracker,Data Analyst,2026-03-20,2026-03-20,Completed,True
+TSK-00177,Retention Cohort Report,Data Analyst,2026-03-20,2026-03-19,Completed,True
+TSK-00178,Escalation Log Review,Data Analyst,2026-03-20,2026-03-19,Completed,True
+TSK-00179,Recruiter Funnel Snapshot,Data Analyst,2026-03-20,2026-03-21,Completed,True
+TSK-00180,Monthly Client Health Report,Ops Lead,2026-03-20,2026-03-20,Completed,True
+TSK-00181,Weekly Leadership Dashboard,Data Analyst,2026-03-27,2026-03-27,Completed,True
+TSK-00182,Close Rate Tracker,Data Analyst,2026-03-27,2026-03-27,Completed,True
+TSK-00183,Retention Cohort Report,Data Analyst,2026-03-27,2026-03-26,Completed,True
+TSK-00184,Escalation Log Review,Data Analyst,2026-03-27,2026-03-28,Completed,True
+TSK-00185,Recruiter Funnel Snapshot,Data Analyst,2026-03-27,2026-03-26,Completed,True
+TSK-00186,Monthly Client Health Report,Ops Lead,2026-03-27,2026-03-27,Completed,True
+TSK-00187,Weekly Leadership Dashboard,Data Analyst,2026-04-03,2026-04-02,Completed,True
+TSK-00188,Close Rate Tracker,Data Analyst,2026-04-03,2026-04-07,Completed,False
+TSK-00189,Retention Cohort Report,Data Analyst,2026-04-03,2026-04-07,Completed,False
+TSK-00190,Escalation Log Review,Data Analyst,2026-04-03,2026-04-04,Completed,True
+TSK-00191,Recruiter Funnel Snapshot,Data Analyst,2026-04-03,2026-04-04,Completed,True
+TSK-00192,Monthly Client Health Report,Ops Lead,2026-04-03,2026-04-04,Completed,True
+TSK-00193,Weekly Leadership Dashboard,Data Analyst,2026-04-10,2026-04-11,Completed,True
+TSK-00194,Close Rate Tracker,Data Analyst,2026-04-10,2026-04-11,Completed,True
+TSK-00195,Retention Cohort Report,Data Analyst,2026-04-10,2026-04-09,Completed,True
+TSK-00196,Escalation Log Review,Data Analyst,2026-04-10,2026-04-13,Completed,False
+TSK-00197,Recruiter Funnel Snapshot,Data Analyst,2026-04-10,2026-04-16,Completed,False
+TSK-00198,Monthly Client Health Report,Ops Lead,2026-04-10,2026-04-11,Completed,True
+TSK-00199,Weekly Leadership Dashboard,Data Analyst,2026-04-17,2026-04-16,Completed,True
+TSK-00200,Close Rate Tracker,Data Analyst,2026-04-17,2026-04-22,Completed,False
+TSK-00201,Retention Cohort Report,Data Analyst,2026-04-17,2026-04-18,Completed,True
+TSK-00202,Escalation Log Review,Data Analyst,2026-04-17,2026-04-18,Completed,True
+TSK-00203,Recruiter Funnel Snapshot,Data Analyst,2026-04-17,2026-04-20,Completed,False
+TSK-00204,Monthly Client Health Report,Ops Lead,2026-04-17,2026-04-22,Completed,False
+TSK-00205,Weekly Leadership Dashboard,Data Analyst,2026-04-24,2026-04-25,Completed,True
+TSK-00206,Close Rate Tracker,Data Analyst,2026-04-24,2026-04-23,Completed,True
+TSK-00207,Retention Cohort Report,Data Analyst,2026-04-24,2026-04-24,Completed,True
+TSK-00208,Escalation Log Review,Data Analyst,2026-04-24,2026-04-23,Completed,True
+TSK-00209,Recruiter Funnel Snapshot,Data Analyst,2026-04-24,2026-04-24,Completed,True
+TSK-00210,Monthly Client Health Report,Ops Lead,2026-04-24,2026-04-25,Completed,True
+TSK-00211,Weekly Leadership Dashboard,Data Analyst,2026-05-01,2026-05-02,Completed,True
+TSK-00212,Close Rate Tracker,Data Analyst,2026-05-01,2026-05-01,Completed,True
+TSK-00213,Retention Cohort Report,Data Analyst,2026-05-01,2026-05-01,Completed,True
+TSK-00214,Escalation Log Review,Data Analyst,2026-05-01,2026-05-02,Completed,True
+TSK-00215,Recruiter Funnel Snapshot,Data Analyst,2026-05-01,2026-05-02,Completed,True
+TSK-00216,Monthly Client Health Report,Ops Lead,2026-05-01,2026-05-06,Completed,False
+TSK-00217,Weekly Leadership Dashboard,Data Analyst,2026-05-08,2026-05-08,Completed,True
+TSK-00218,Close Rate Tracker,Data Analyst,2026-05-08,2026-05-08,Completed,True
+TSK-00219,Retention Cohort Report,Data Analyst,2026-05-08,2026-05-07,Completed,True
+TSK-00220,Escalation Log Review,Data Analyst,2026-05-08,2026-05-13,Completed,False
+TSK-00221,Recruiter Funnel Snapshot,Data Analyst,2026-05-08,2026-05-12,Completed,False
+TSK-00222,Monthly Client Health Report,Ops Lead,2026-05-08,2026-05-09,Completed,True
+TSK-00223,Weekly Leadership Dashboard,Data Analyst,2026-05-15,2026-05-14,Completed,True
+TSK-00224,Close Rate Tracker,Data Analyst,2026-05-15,2026-05-16,Completed,True
+TSK-00225,Retention Cohort Report,Data Analyst,2026-05-15,2026-05-14,Completed,True
+TSK-00226,Escalation Log Review,Data Analyst,2026-05-15,2026-05-15,Completed,True
+TSK-00227,Recruiter Funnel Snapshot,Data Analyst,2026-05-15,2026-05-16,Completed,True
+TSK-00228,Monthly Client Health Report,Ops Lead,2026-05-15,2026-05-18,Completed,False
+TSK-00229,Weekly Leadership Dashboard,Data Analyst,2026-05-22,2026-05-21,Completed,True
+TSK-00230,Close Rate Tracker,Data Analyst,2026-05-22,2026-05-23,Completed,True
+TSK-00231,Retention Cohort Report,Data Analyst,2026-05-22,2026-05-27,Completed,False
+TSK-00232,Escalation Log Review,Data Analyst,2026-05-22,2026-05-22,Completed,True
+TSK-00233,Recruiter Funnel Snapshot,Data Analyst,2026-05-22,2026-05-22,Completed,True
+TSK-00234,Monthly Client Health Report,Ops Lead,2026-05-22,2026-05-23,Completed,True
+TSK-00235,Weekly Leadership Dashboard,Data Analyst,2026-05-29,2026-05-30,Completed,True
+TSK-00236,Close Rate Tracker,Data Analyst,2026-05-29,2026-06-02,Completed,False
+TSK-00237,Retention Cohort Report,Data Analyst,2026-05-29,2026-05-30,Completed,True
+TSK-00238,Escalation Log Review,Data Analyst,2026-05-29,2026-06-03,Completed,False
+TSK-00239,Recruiter Funnel Snapshot,Data Analyst,2026-05-29,2026-05-28,Completed,True
+TSK-00240,Monthly Client Health Report,Ops Lead,2026-05-29,2026-05-28,Completed,True
+TSK-00241,Weekly Leadership Dashboard,Data Analyst,2026-06-05,2026-06-05,Completed,True
+TSK-00242,Close Rate Tracker,Data Analyst,2026-06-05,2026-06-06,Completed,True
+TSK-00243,Retention Cohort Report,Data Analyst,2026-06-05,2026-06-07,Completed,False
+TSK-00244,Escalation Log Review,Data Analyst,2026-06-05,2026-06-04,Completed,True
+TSK-00245,Recruiter Funnel Snapshot,Data Analyst,2026-06-05,2026-06-10,Completed,False
+TSK-00246,Monthly Client Health Report,Ops Lead,2026-06-05,2026-06-04,Completed,True
+TSK-00247,Weekly Leadership Dashboard,Data Analyst,2026-06-12,2026-06-13,Completed,True
+TSK-00248,Close Rate Tracker,Data Analyst,2026-06-12,2026-06-12,Completed,True
+TSK-00249,Retention Cohort Report,Data Analyst,2026-06-12,2026-06-11,Completed,True
+TSK-00250,Escalation Log Review,Data Analyst,2026-06-12,2026-06-13,Completed,True
+TSK-00251,Recruiter Funnel Snapshot,Data Analyst,2026-06-12,2026-06-12,Completed,True
+TSK-00252,Monthly Client Health Report,Ops Lead,2026-06-12,2026-06-11,Completed,True
+TSK-00253,Weekly Leadership Dashboard,Data Analyst,2026-06-19,2026-06-19,Completed,True
+TSK-00254,Close Rate Tracker,Data Analyst,2026-06-19,2026-06-19,Completed,True
+TSK-00255,Retention Cohort Report,Data Analyst,2026-06-19,2026-06-20,Completed,True
+TSK-00256,Escalation Log Review,Data Analyst,2026-06-19,2026-06-18,Completed,True
+TSK-00257,Recruiter Funnel Snapshot,Data Analyst,2026-06-19,2026-06-21,Completed,False
+TSK-00258,Monthly Client Health Report,Ops Lead,2026-06-19,2026-06-19,Completed,True
+TSK-00259,Weekly Leadership Dashboard,Data Analyst,2026-06-26,2026-07-01,Completed,False
+TSK-00260,Close Rate Tracker,Data Analyst,2026-06-26,2026-06-25,Completed,True
+TSK-00261,Retention Cohort Report,Data Analyst,2026-06-26,2026-06-27,Completed,True
+TSK-00262,Escalation Log Review,Data Analyst,2026-06-26,2026-06-30,Completed,False
+TSK-00263,Recruiter Funnel Snapshot,Data Analyst,2026-06-26,2026-06-29,Completed,False
+TSK-00264,Monthly Client Health Report,Ops Lead,2026-06-26,2026-06-25,Completed,True
+TSK-00265,Weekly Leadership Dashboard,Data Analyst,2026-07-03,2026-07-03,Completed,True
+TSK-00266,Close Rate Tracker,Data Analyst,2026-07-03,2026-07-02,Completed,True
+TSK-00267,Retention Cohort Report,Data Analyst,2026-07-03,2026-07-03,Completed,True
+TSK-00268,Escalation Log Review,Data Analyst,2026-07-03,2026-07-04,Completed,True
+TSK-00269,Recruiter Funnel Snapshot,Data Analyst,2026-07-03,2026-07-03,Completed,True
+TSK-00270,Monthly Client Health Report,Ops Lead,2026-07-03,2026-07-02,Completed,True
+TSK-00271,Weekly Leadership Dashboard,Data Analyst,2026-07-10,2026-07-10,Completed,True
+TSK-00272,Close Rate Tracker,Data Analyst,2026-07-10,2026-07-11,Completed,True
+TSK-00273,Retention Cohort Report,Data Analyst,2026-07-10,2026-07-16,Completed,False
+TSK-00274,Escalation Log Review,Data Analyst,2026-07-10,2026-07-10,Completed,True
+TSK-00275,Recruiter Funnel Snapshot,Data Analyst,2026-07-10,2026-07-09,Completed,True
+TSK-00276,Monthly Client Health Report,Ops Lead,2026-07-10,2026-07-09,Completed,True
+TSK-00277,Weekly Leadership Dashboard,Data Analyst,2026-07-17,2026-07-21,Completed,False
+TSK-00278,Close Rate Tracker,Data Analyst,2026-07-17,2026-07-18,Completed,True
+TSK-00279,Retention Cohort Report,Data Analyst,2026-07-17,2026-07-18,Completed,True
+TSK-00280,Escalation Log Review,Data Analyst,2026-07-17,2026-07-16,Completed,True
+TSK-00281,Recruiter Funnel Snapshot,Data Analyst,2026-07-17,2026-07-17,Completed,True
+TSK-00282,Monthly Client Health Report,Ops Lead,2026-07-17,2026-07-16,Completed,True
+TSK-00283,Weekly Leadership Dashboard,Data Analyst,2026-07-24,2026-07-23,Completed,True
+TSK-00284,Close Rate Tracker,Data Analyst,2026-07-24,2026-07-24,Completed,True
+TSK-00285,Retention Cohort Report,Data Analyst,2026-07-24,2026-07-25,Completed,True
+TSK-00286,Escalation Log Review,Data Analyst,2026-07-24,2026-07-24,Completed,True
+TSK-00287,Recruiter Funnel Snapshot,Data Analyst,2026-07-24,2026-07-23,Completed,True
+TSK-00288,Monthly Client Health Report,Ops Lead,2026-07-24,2026-07-24,Completed,True
+TSK-00289,Weekly Leadership Dashboard,Data Analyst,2026-07-31,2026-08-01,Completed,True
+TSK-00290,Close Rate Tracker,Data Analyst,2026-07-31,2026-08-06,Completed,False
+TSK-00291,Retention Cohort Report,Data Analyst,2026-07-31,2026-07-31,Completed,True
+TSK-00292,Escalation Log Review,Data Analyst,2026-07-31,2026-08-01,Completed,True
+TSK-00293,Recruiter Funnel Snapshot,Data Analyst,2026-07-31,2026-07-30,Completed,True
+TSK-00294,Monthly Client Health Report,Ops Lead,2026-07-31,2026-08-05,Completed,False
+TSK-00295,Weekly Leadership Dashboard,Data Analyst,2026-08-07,2026-08-07,Completed,True
+TSK-00296,Close Rate Tracker,Data Analyst,2026-08-07,2026-08-07,Completed,True
+TSK-00297,Retention Cohort Report,Data Analyst,2026-08-07,2026-08-08,Completed,True
+TSK-00298,Escalation Log Review,Data Analyst,2026-08-07,2026-08-07,Completed,True
+TSK-00299,Recruiter Funnel Snapshot,Data Analyst,2026-08-07,2026-08-08,Completed,True
+TSK-00300,Monthly Client Health Report,Ops Lead,2026-08-07,2026-08-08,Completed,True
+TSK-00301,Weekly Leadership Dashboard,Data Analyst,2026-08-14,2026-08-14,Completed,True
+TSK-00302,Close Rate Tracker,Data Analyst,2026-08-14,2026-08-15,Completed,True
+TSK-00303,Retention Cohort Report,Data Analyst,2026-08-14,2026-08-16,Completed,False
+TSK-00304,Escalation Log Review,Data Analyst,2026-08-14,2026-08-20,Completed,False
+TSK-00305,Recruiter Funnel Snapshot,Data Analyst,2026-08-14,2026-08-14,Completed,True
+TSK-00306,Monthly Client Health Report,Ops Lead,2026-08-14,2026-08-15,Completed,True
+TSK-00307,Weekly Leadership Dashboard,Data Analyst,2026-08-21,2026-08-20,Completed,True
+TSK-00308,Close Rate Tracker,Data Analyst,2026-08-21,2026-08-20,Completed,True
+TSK-00309,Retention Cohort Report,Data Analyst,2026-08-21,2026-08-22,Completed,True
+TSK-00310,Escalation Log Review,Data Analyst,2026-08-21,2026-08-21,Completed,True
+TSK-00311,Recruiter Funnel Snapshot,Data Analyst,2026-08-21,2026-08-22,Completed,True
+TSK-00312,Monthly Client Health Report,Ops Lead,2026-08-21,2026-08-21,Completed,True

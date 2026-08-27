@@ -1,0 +1,83 @@
+placement_id,candidate_id,client_id,role,region,hourly_rate,start_date,end_date,status,end_reason
+PL-00001,CND-00022,CL-0085,Lawyer,Mexico,18.53,2026-02-16,,Active,
+PL-00002,CND-00047,CL-0074,Paralegal,Mexico,20.29,2026-02-07,2026-08-08,Ended,Staff Resigned
+PL-00003,CND-00071,CL-0072,Paralegal,Colombia,20.13,2025-05-11,2026-01-03,Ended,Client Budget Cut
+PL-00004,CND-00075,CL-0014,Receptionist,Argentina,19.6,2026-03-16,,Active,
+PL-00005,CND-00077,CL-0064,Legal Assistant,Colombia,12.45,2026-07-07,,Active,
+PL-00006,CND-00084,CL-0075,Case Manager,South Africa,20.98,2026-08-28,,Active,
+PL-00007,CND-00102,CL-0001,Legal Assistant,Mexico,19.45,2025-12-30,,Active,
+PL-00008,CND-00128,CL-0058,Legal Assistant,Colombia,14.56,2026-02-20,,Active,
+PL-00009,CND-00146,CL-0058,Intake Specialist,Colombia,13.55,2026-08-09,,Active,
+PL-00010,CND-00155,CL-0041,Paralegal,Argentina,14.65,2026-06-25,,Active,
+PL-00011,CND-00159,CL-0039,Legal Assistant,Colombia,21.14,2026-08-14,,Active,
+PL-00012,CND-00164,CL-0045,Lawyer,Colombia,17.62,2026-05-10,,Active,
+PL-00013,CND-00180,CL-0066,Legal Assistant,South Africa,20.4,2025-12-04,,Active,
+PL-00014,CND-00201,CL-0008,Executive Assistant,Philippines,20.96,2025-08-17,,Active,
+PL-00015,CND-00206,CL-0001,Executive Assistant,Peru,18.89,2026-05-08,,Active,
+PL-00016,CND-00210,CL-0046,Legal Assistant,South Africa,20.54,2026-01-16,,Active,
+PL-00017,CND-00216,CL-0031,Lawyer,Mexico,18.87,2026-05-14,,Active,
+PL-00018,CND-00235,CL-0041,Bookkeeper,Colombia,18.97,2026-04-10,,Active,
+PL-00019,CND-00287,CL-0056,Legal Assistant,Colombia,13.72,2026-05-04,2026-06-20,Ended,Client Budget Cut
+PL-00020,CND-00288,CL-0050,Legal Assistant,Argentina,20.35,2026-02-28,,Active,
+PL-00021,CND-00296,CL-0054,Bookkeeper,Mexico,14.53,2026-07-01,,Active,
+PL-00022,CND-00301,CL-0017,Paralegal,Peru,11.62,2025-12-13,,Active,
+PL-00023,CND-00318,CL-0019,Legal Assistant,Colombia,18.41,2025-12-07,,Active,
+PL-00024,CND-00319,CL-0018,Case Manager,Colombia,12.94,2026-03-17,,Active,
+PL-00025,CND-00374,CL-0059,Intake Specialist,Argentina,21.27,2025-09-21,,Active,
+PL-00026,CND-00405,CL-0059,Paralegal,Peru,16.85,2026-08-12,,Active,
+PL-00027,CND-00446,CL-0058,Legal Assistant,Peru,15.23,2026-02-18,2026-08-21,Ended,Client Budget Cut
+PL-00028,CND-00460,CL-0064,Case Manager,Philippines,18.98,2026-07-10,2026-08-26,Ended,Staff Resigned
+PL-00029,CND-00495,CL-0005,Paralegal,Argentina,17.47,2026-08-01,,Active,
+PL-00030,CND-00497,CL-0015,Lawyer,Philippines,16.56,2025-05-21,,Active,
+PL-00031,CND-00505,CL-0019,Intake Specialist,Peru,19.17,2026-08-13,,Active,
+PL-00032,CND-00557,CL-0036,Marketing Assistant,Mexico,16.93,2025-08-17,,Active,
+PL-00033,CND-00563,CL-0079,Case Manager,Philippines,12.43,2026-04-28,,Active,
+PL-00034,CND-00571,CL-0085,Lawyer,Colombia,18.68,2025-12-16,,Active,
+PL-00035,CND-00583,CL-0075,Legal Assistant,Philippines,17.94,2025-10-01,,Active,
+PL-00036,CND-00592,CL-0069,Receptionist,Peru,16.42,2026-01-17,,Active,
+PL-00037,CND-00602,CL-0061,Lawyer,Argentina,17.53,2026-02-21,2026-06-21,Ended,Staff Promoted Internally
+PL-00038,CND-00615,CL-0038,Legal Assistant,South Africa,14.54,2026-05-26,2026-08-02,Ended,Performance - Replaced
+PL-00039,CND-00633,CL-0073,Paralegal,Philippines,14.23,2026-03-22,,Active,
+PL-00040,CND-00643,CL-0075,Paralegal,Mexico,13.28,2025-10-23,2026-04-20,Ended,Performance - Replaced
+PL-00041,CND-00651,CL-0080,Lawyer,Mexico,11.79,2025-12-19,,Active,
+PL-00042,CND-00652,CL-0017,Paralegal,Philippines,12.31,2025-12-19,,Active,
+PL-00043,CND-00676,CL-0033,Lawyer,South Africa,17.97,2025-11-16,2026-04-26,Ended,Client Budget Cut
+PL-00044,CND-00737,CL-0015,Executive Assistant,Argentina,17.84,2025-05-30,,Active,
+PL-00045,CND-00740,CL-0020,Legal Assistant,Colombia,18.42,2026-03-17,,Active,
+PL-00046,CND-00794,CL-0023,Marketing Assistant,Peru,14.24,2026-03-05,,Active,
+PL-00047,CND-00806,CL-0063,Legal Assistant,Colombia,13.4,2026-05-30,,Active,
+PL-00048,CND-00824,CL-0005,Bookkeeper,Colombia,21.83,2026-08-06,,Active,
+PL-00049,CND-00830,CL-0077,Bookkeeper,Mexico,20.29,2026-01-21,,Active,
+PL-00050,CND-00900,CL-0053,Intake Specialist,Colombia,19.59,2026-01-19,2026-06-10,Ended,Performance - Replaced
+PL-00051,CND-00921,CL-0022,Intake Specialist,Argentina,17.57,2026-01-31,,Active,
+PL-00052,CND-00923,CL-0007,Paralegal,Argentina,18.24,2026-06-27,,Active,
+PL-00053,CND-00931,CL-0015,Legal Assistant,Colombia,12.05,2026-04-30,,Active,
+PL-00054,CND-00940,CL-0061,Executive Assistant,South Africa,16.5,2025-11-16,,Active,
+PL-00055,CND-00954,CL-0069,Paralegal,Peru,13.95,2026-06-28,,Active,
+PL-00056,CND-00972,CL-0050,Legal Assistant,Peru,16.48,2026-04-28,2026-07-22,Ended,Client Budget Cut
+PL-00057,CND-00994,CL-0058,Paralegal,South Africa,18.62,2026-02-18,,Active,
+PL-00058,CND-01013,CL-0006,Legal Assistant,Philippines,21.14,2025-09-22,,Active,
+PL-00059,CND-01028,CL-0056,Legal Assistant,Colombia,21.14,2026-05-05,,Active,
+PL-00060,CND-01029,CL-0043,Intake Specialist,Philippines,14.3,2026-07-16,2026-08-25,Ended,Staff Resigned
+PL-00061,CND-01039,CL-0060,Paralegal,Colombia,19.62,2026-07-29,,Active,
+PL-00062,CND-01082,CL-0076,Legal Assistant,Philippines,16.96,2026-04-14,,Active,
+PL-00063,CND-01115,CL-0024,Executive Assistant,South Africa,17.25,2025-10-09,,Active,
+PL-00064,CND-01120,CL-0009,Case Manager,Argentina,15.82,2025-08-08,,Active,
+PL-00065,CND-01128,CL-0058,Legal Assistant,Philippines,15.19,2026-03-04,,Active,
+PL-00066,CND-01150,CL-0033,Paralegal,Colombia,13.53,2026-07-02,2026-08-03,Ended,Client Budget Cut
+PL-00067,CND-01170,CL-0077,Bookkeeper,Philippines,21.48,2026-01-22,,Active,
+PL-00068,CND-01178,CL-0016,Paralegal,Philippines,12.41,2026-08-28,,Active,
+PL-00069,CND-01180,CL-0049,Lawyer,Philippines,18.39,2025-11-26,,Active,
+PL-00070,CND-01225,CL-0073,Paralegal,Philippines,20.91,2025-11-11,,Active,
+PL-00071,CND-01233,CL-0033,Legal Assistant,Philippines,14.59,2026-02-10,,Active,
+PL-00072,CND-01257,CL-0010,Lawyer,Mexico,18.21,2025-06-08,,Active,
+PL-00073,CND-01264,CL-0036,Case Manager,Colombia,19.58,2026-06-14,,Active,
+PL-00074,CND-01269,CL-0042,Intake Specialist,Colombia,13.2,2025-11-07,2026-01-07,Ended,Client Ended Engagement
+PL-00075,CND-01313,CL-0043,Legal Assistant,Peru,14.21,2026-07-12,,Active,
+PL-00076,CND-01323,CL-0023,Intake Specialist,South Africa,16.13,2026-08-28,,Active,
+PL-00077,CND-01349,CL-0026,Legal Assistant,Colombia,17.91,2026-04-22,2026-07-23,Ended,Client Budget Cut
+PL-00078,CND-01379,CL-0070,Paralegal,Peru,13.79,2026-07-09,,Active,
+PL-00079,CND-01419,CL-0057,Executive Assistant,Philippines,19.01,2026-02-04,2026-03-24,Ended,Client Budget Cut
+PL-00080,CND-01426,CL-0033,Legal Assistant,Argentina,11.7,2025-11-21,,Active,
+PL-00081,CND-01436,CL-0084,Intake Specialist,Philippines,21.3,2025-06-19,,Active,
+PL-00082,CND-01439,CL-0035,Paralegal,Philippines,18.85,2026-02-15,,Active,
