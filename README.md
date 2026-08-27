@@ -1,5 +1,6 @@
 # RLS Ops Intelligence Dashboard (Interview Portfolio Project)
 
+🚀 **Live Dashboard:** [https://harsh-rls-portfolio.streamlit.app](https://harsh-rls-portfolio.streamlit.app)
 A self-contained data analyst portfolio project built for the
 **RemoteLegalStaff — AI-Powered Data Analyst** role. See
 `docs/PROJECT_DOCUMENTATION.md` for full documentation, the data dictionary,
